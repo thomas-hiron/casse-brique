@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Breakout"
+description: "Developed with canvas"
+show_downloads: "true"
